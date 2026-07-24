@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.5",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "New: live trim preview \u2014 for video recordings, a preview frame above the waveform follows the playhead while you scrub and set your IN/OUT points. Plus a refreshed app icon.",
+  "release_notes": "New: your bumpers, name tags, and presets now live safely in Documents > Media Processor \u2014 selected files are copied in automatically, so presets keep working even if the originals move. Plus a clear warning when a referenced file is missing.",
   "min_macos_version": "10.15"
 }

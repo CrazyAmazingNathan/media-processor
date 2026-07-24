@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
+  "download_url": "https://github.com/CrazyAmazingNathan/media-processor/releases/download/v1.2.0/Media-Processor-1.2.0.dmg",
   "release_notes": "Name tag overlays on video exports, live export size estimates, smoother trackpad scrolling, and a refreshed look.",
   "min_macos_version": "10.15"
 }

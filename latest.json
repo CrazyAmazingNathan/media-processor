@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "Name tag overlays on video exports, live export size estimates, smoother trackpad scrolling, and a refreshed look.",
+  "release_notes": "New: live trim preview \u2014 for video recordings, a preview frame above the waveform follows the playhead while you scrub and set your IN/OUT points. Plus a refreshed app icon.",
   "min_macos_version": "10.15"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "New: pick your audio source \u2014 Stereo 1+2, Stereo 3+4, or any single channel. One-click Export Both renders your podcast MP3 and video MP4 together, with a progress bar that tracks the real encode.",
+  "release_notes": "Everything from 1.4.0 \u2014 stereo/mono source picker, one-click Export Both, live encode progress \u2014 plus a faster, clearer Check for Updates.",
   "min_macos_version": "10.15"
 }

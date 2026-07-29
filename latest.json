@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "Everything from 1.4.0 \u2014 stereo/mono source picker, one-click Export Both, live encode progress \u2014 plus a faster, clearer Check for Updates.",
+  "release_notes": "New: intro and outro changes now save to your selected preset automatically \u2014 set up Sunday service once, tweak it any week, no re-saving.",
   "min_macos_version": "10.15"
 }

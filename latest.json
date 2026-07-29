@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "New: a hands-on Quick Tour (Help menu) that walks you through the whole workflow \u2014 it highlights each button, waits for you, and never rushes ahead. Plus cleaner button states during renders.",
+  "release_notes": "Important fix: update checking now works reliably on all Macs (a certificate issue made it fail silently before), plus the new hands-on Quick Tour. Grab this version \u2014 it's the one that keeps you up to date from here on.",
   "min_macos_version": "10.15"
 }

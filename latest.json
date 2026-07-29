@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "Important fix: update checking now works reliably on all Macs (a certificate issue made it fail silently before), plus the new hands-on Quick Tour. Grab this version \u2014 it's the one that keeps you up to date from here on.",
+  "release_notes": "Small maintenance release \u2014 confirms your app now receives updates reliably.",
   "min_macos_version": "10.15"
 }

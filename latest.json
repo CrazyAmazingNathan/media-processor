@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "New: intro and outro changes now save to your selected preset automatically \u2014 set up Sunday service once, tweak it any week, no re-saving.",
+  "release_notes": "New: a hands-on Quick Tour (Help menu) that walks you through the whole workflow \u2014 it highlights each button, waits for you, and never rushes ahead. Plus cleaner button states during renders.",
   "min_macos_version": "10.15"
 }

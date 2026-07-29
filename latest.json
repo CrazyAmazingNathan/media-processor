@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "Important: fixes update notifications not appearing. Download this version once and future updates will announce themselves properly.",
+  "release_notes": "Small maintenance release \u2014 if you can read this banner, your updates are working perfectly.",
   "min_macos_version": "10.15"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "download_url": "https://www.crazyamazingdesigns.com/Media-Processor",
-  "release_notes": "Small maintenance release \u2014 confirms your app now receives updates reliably.",
+  "release_notes": "Important: fixes update notifications not appearing. Download this version once and future updates will announce themselves properly.",
   "min_macos_version": "10.15"
 }

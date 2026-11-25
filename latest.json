@@ -2,5 +2,10 @@
   "version": "1.5.0",
   "download_url": "https://www.crazyamazingdesigns.com/account",
   "release_notes": "Steadier exports: checks disk space first, Cancel is instant, and more.",
-  "min_macos_version": "10.15"
+  "min_macos_version": "10.15",
+  "windows": {
+    "version": "1.5.0",
+    "download_url": "https://www.crazyamazingdesigns.com/account",
+    "release_notes": "Media Processor for Windows 11, signed by Crazy Amazing Designs LLC."
+  }
 }
